@@ -57,6 +57,10 @@ The idea originated from the need to establish a remote connection to a computer
 
 ## Installation
 
+### Bot Setup
+
+You can find a tutorial on how to setup the bot setup correctly [here](https://github.com/rdWei/DiscDoor/blob/main/docs/BOTSETUP.md).
+
 ### Linux
 
 To install the tool on linux simply run the ./buid.sh file, before doing so, however, you must install the dependencies: `nim`, `nimble`, `dimscord`, you can install them automatically with the script below.
@@ -91,9 +95,6 @@ To install this tool on windows you need to perform the following steps:
 >[!NOTE]
 >The installation on Windows has not been tested yet. If you find a way to perform the installation more efficiently, please proceed to create a pull request on GitHub or open an issue to discuss the improvements.
 
-### Bot Setup
-
-You can find a tutorial on how to setup the bot setup correctly [here](https://github.com/rdWei/DiscDoor/blob/main/docs/BOTSETUP.md).
 
 ## Quick Start
 
