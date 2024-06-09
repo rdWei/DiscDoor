@@ -123,3 +123,5 @@ On the attacker's side, there is nothing else to do but wait for the bot to conf
 </div>
 
 <a name="end-of-file"></a>
+
+[support me](https://github.com/rdWei/rdWei/blob/main/donate.MD)
