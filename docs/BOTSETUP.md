@@ -27,5 +27,5 @@
     - ![](images/10.png)
 17. Go on installation and generate link then open the url and add bot to the discord server
     - ![](images/9.png)
-18. Run the program in `out` folder on the target machine
+18. After completing the [installation](https://github.com/rdwei/DiscDoor#Installation) and building the tool run the program in `out` folder on the target machine
     - ![](images/11.png)
