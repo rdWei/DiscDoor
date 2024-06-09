@@ -2,7 +2,7 @@
 
 1. Go on https://discord.com/developers/docs/quick-start/getting-started
 2. Press on `Create App`
-3. Inserd DiscDoor in the name field
+3. Insert DiscDoor in the name field
     - ![](images/1.png)
 4. Change icon with the image `images/logo.png`
     - ![](images/2.png)
