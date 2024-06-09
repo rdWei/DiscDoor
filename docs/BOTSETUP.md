@@ -23,7 +23,7 @@
     - ![](images/8.png)
 15. Put channel-id inside `src/config.nim` file
     - ![](images/7.png)
-16. Go to Installation section and add permission on scopes and permission
+16. Go to Installation set install link to "discord provided link", then add bot on scopes and administrator on permission
     - ![](images/10.png)
 17. Go on installation and generate link then open the url and add bot to the discord server
     - ![](images/9.png)
