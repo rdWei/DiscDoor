@@ -1,0 +1,2 @@
+let TOKEN = ""
+let CHANNEL = ""
